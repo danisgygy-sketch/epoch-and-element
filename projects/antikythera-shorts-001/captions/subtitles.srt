@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,229
+More than two thousand
+years ago,
+
+2
+00:00:02,329 --> 00:00:03,848
+someone in ancient Greece
+
+3
+00:00:03,888 --> 00:00:06,377
+built a machine to
+predict the sky.
+
+4
+00:00:06,827 --> 00:00:08,796
+Made of bronze and
+packed with gears,
+
+5
+00:00:08,846 --> 00:00:11,595
+it tracked the cycles
+of the Sun and Moon—
+
+6
+00:00:11,695 --> 00:00:13,664
+and predicted eclipses.
+
+7
+00:00:14,114 --> 00:00:17,382
+Found in a shipwreck
+near Antikythera in 1901,
+
+8
+00:00:17,432 --> 00:00:21,221
+it became known as the
+Antikythera Mechanism.
+
+9
+00:00:21,671 --> 00:00:23,380
+Today, 82 fragments survive,
+
+10
+00:00:23,430 --> 00:00:25,659
+including 30 corroded
+bronze gears.
+
+11
+00:00:25,909 --> 00:00:29,957
+Together, they reveal
+extraordinary engineering.
+
+12
+00:00:30,507 --> 00:00:33,256
+But its full design
+is still debated.
+
+13
+00:00:33,506 --> 00:00:34,695
+Some parts are lost,
+
+14
+00:00:34,745 --> 00:00:37,564
+and researchers are still
+piecing together
+
+15
+00:00:37,604 --> 00:00:38,533
+how it worked.
+
+16
+00:00:39,083 --> 00:00:41,122
+Often called the
+world’s oldest known
+
+17
+00:00:41,162 --> 00:00:43,132
+analogue computer.
+
+18
+00:00:43,582 --> 00:00:47,000
+A small machine built
+to model an immense sky.

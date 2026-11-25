@@ -1,0 +1,90 @@
+1
+00:00:00,000 --> 00:00:01,619
+Two thousand years ago,
+
+2
+00:00:01,669 --> 00:00:04,268
+someone built a computer
+from bronze gears.
+
+3
+00:00:04,618 --> 00:00:06,237
+No electricity.
+
+4
+00:00:06,337 --> 00:00:06,976
+No screen.
+
+5
+00:00:07,126 --> 00:00:08,216
+Just a hand-crank—
+
+6
+00:00:08,256 --> 00:00:11,099
+and a machine designed
+to model the sky.
+
+7
+00:00:11,449 --> 00:00:14,347
+Recovered from a shipwreck
+near the Greek island
+
+8
+00:00:14,387 --> 00:00:16,211
+of Antikythera in 1901,
+
+9
+00:00:16,251 --> 00:00:18,905
+its corroded fragments
+concealed a device
+
+10
+00:00:18,945 --> 00:00:21,543
+probably built between
+150 and 100 BCE.
+
+11
+00:00:21,893 --> 00:00:22,708
+Turn the crank,
+
+12
+00:00:22,748 --> 00:00:23,932
+and its dials could track
+
+13
+00:00:23,972 --> 00:00:26,011
+the cycles of the
+Sun and Moon,
+
+14
+00:00:26,051 --> 00:00:27,845
+follow complex calendars,
+
+15
+00:00:27,885 --> 00:00:29,504
+and predict eclipses.
+
+16
+00:00:29,854 --> 00:00:33,187
+It is known as the
+Antikythera Mechanism—
+
+17
+00:00:33,237 --> 00:00:36,080
+the oldest known
+analogue computer.
+
+18
+00:00:36,430 --> 00:00:39,028
+Its complete design
+remains debated.
+
+19
+00:00:39,178 --> 00:00:42,566
+But the surviving machine
+shows how sophisticated
+
+20
+00:00:42,606 --> 00:00:45,000
+ancient Greek engineering
+could be.
